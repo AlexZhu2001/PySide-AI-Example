@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+PySide6==6.6.2
