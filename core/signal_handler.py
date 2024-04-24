@@ -1,7 +1,6 @@
 import signal
 from types import FrameType
 
-from PySide6.QtCore import QObject
 from PySide6.QtWidgets import QApplication
 
 
