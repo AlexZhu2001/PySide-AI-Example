@@ -3,3 +3,5 @@ torch
 torchvision
 torchaudio
 PySide6==6.6.2
+opencv-python
+numpy
